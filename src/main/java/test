@@ -1,0 +1,7 @@
+module ServerModule{
+    interface Creator{
+
+        boolean printRecord (in string ManagerID);
+
+    };
+};
